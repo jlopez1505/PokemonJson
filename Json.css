@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+    background-image: url("390592.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 3%;
+    font-family: sans-serif;
+}
+div{
+    background-color: rgba(255, 255, 255, 0.671);
+    margin: auto;
+    width: 80%;
+    padding: 2%;
+    border-radius: 15px;
+}
+#g{
+    display: none;
+    margin-top: 2%;
+}
+.resultado{
+    font-size: x-large;
+    text-align: left;
+    margin: 10% 2% 2% 2%;
+    font-weight: bolder;
+    line-height: 1.5;
+    text-transform: capitalize;
+    color: rgb(22, 22, 22);
+}
+h1{
+    font-size: 30pt;
+    padding: 1%;
+    color: rgb(78, 0, 0);
+}
+h2{
+    font-size: 20pt;
+    padding: 1%;
+    color: rgb(0, 0, 39);
+}
+button{
+    border-radius: 5px;
+    background-color: rgb(109, 0, 0);
+    color: white;
+    padding: 10px 15px;
+    font-size: 10pt;
+    border: none;
+    font-weight: bolder;
+}
+input{
+    padding: 1%;
+    border-radius: 10px;
+    border: 2px gray solid;
+    width: 200px;
+    font-size: 10pt;
+}
+label{
+    margin: 15px;
+    font-weight: bolder;
+    color: rgb(59, 59, 59);
+}
+
